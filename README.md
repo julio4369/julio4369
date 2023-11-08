@@ -19,7 +19,7 @@ Analista de dados.
 - <a href="">
     Projeto Python: Relatorio de KPI's  de um laboratorio de analises clinicas.
   </a>
-- <a href="">
+- <a href="https://github.com/julio4369/portfolio/blob/main/trimestre.sql">
     Projeto SQL: Criação de tabelas de faturamento trimestais com atulização automatica.
   </a>
 - <a href="">
