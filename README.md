@@ -16,12 +16,12 @@ Analista de dados.
 </a>&nbsp
 
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
-- <a href="">
+- <a href="https://github.com/julio4369/portfolio/blob/main/Relatorio_e_analise_de_indicadores_Lab.ipynb">
     Projeto Python: Relatorio de KPI's  de um laboratorio de analises clinicas.
   </a>
 - <a href="https://github.com/julio4369/portfolio/blob/main/trimestre.sql">
     Projeto SQL: Criação de tabelas de faturamento trimestais com atulização automatica.
   </a>
-- <a href="">
+- <a href="https://github.com/julio4369/portfolio/blob/main/BI%20-%20CERVEJARIA%20-%20UMA%202.0.pbix">
     Projeto Power BI: Relatorio de KPI'S do uso de agua na produção de cerveja da AMBEV
     
